@@ -1,11 +1,11 @@
 {
-    "name": "presente_campo",
-    "short_name": "presente_campo",
+    "name": "Presente! Campo",
+    "short_name": "Presente!",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1B7F5B",
+    "theme_color": "#1B7F5B",
+    "description": "Presente! Campo - busca ativa escolar.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
