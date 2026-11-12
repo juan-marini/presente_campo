@@ -121,7 +121,3 @@ flutter run
 flutter test      # 53 testes
 flutter build apk
 ```
-
-## Vídeo pitch
-
-_Link do vídeo: preencher_
