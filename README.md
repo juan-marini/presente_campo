@@ -6,9 +6,9 @@ App Flutter do agente de **busca ativa escolar**, parte da solução **Presente!
 
 | RM | Nome completo |
 |---|---|
-| RM555370 | Samuel Okuma |
-| RM556678 | Juan Marini |
-| RM555918 | Arthur Menon |
+| RM555370 | Samuel Okuma Rodrigues |
+| RM556678 | Juan Marini Pinto |
+| RM555918 | Arthur Menon Sposito |
 
 ## Tema da Global Solution
 
